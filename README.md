@@ -15,7 +15,7 @@
 
 ## 🧾 Installation
 
-1. `https://github.com/Afolabi-1/Jotty.git YOURPROJECTNAME`
+1. `https://github.com/subomi02/Jotty.git YOURPROJECTNAME`
 2. `cd YOURPROJECTNAME`
 3. Install dependencies:
 
